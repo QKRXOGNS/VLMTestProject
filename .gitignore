@@ -1,0 +1,31 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Ll]ocal[Cc]ache/
+
+# VS
+.vs/
+.vscode/
+
+# Mac
+.DS_Store
+*.DS_Store
+._*
+
+# IDE
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.pidb
+*.booproj
+
+# Build results
+*.log
+*.tmp
